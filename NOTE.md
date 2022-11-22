@@ -4,4 +4,4 @@
 - geektime---观察者模式
 - npm--------使用方法
 - promise----promise
--
+- 测试
